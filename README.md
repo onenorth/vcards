@@ -5,7 +5,7 @@ The API consists of a vCard object with properties that represent the data in th
 
 We hope this implementation saves time when implementing vCards.
 
-> Coming Soon: Please see the related [Blog Post](http://www.onenorth.com/blog)
+> Coming Soon: Please see the related [Blog Post](http://www.onenorth.com/blog/post/sitecore-vcards)
 
 # Usage
 Here is a Sitecore MVC example of how to use OneNorth.VCards.  This example assumes that a person object is being used and Glass Mapper is used to map the data.
